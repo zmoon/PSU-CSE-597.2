@@ -4,11 +4,15 @@ Every homework assignment should include:
 "A readme file that includes basic information about you, the purpose of the code and any instructions required"
 
 ## Basic info
-Author: Zachary Moon 
-PSU user ID: zlm1
+
+info item | value
+--- | ---
+Author | Zachary Moon
+PSU user ID | zlm1
+class | PSU CSE 597.2, Fall 2018
+assignment | HW 0
+
 Please see LICENSE.txt for licensing information
-PSU CSE 597.2, Fall 2018
-HW 0
 
 ## Purpose
 The program for this homework assignment implements the classic ["Hello, world!"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program).
